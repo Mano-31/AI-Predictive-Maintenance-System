@@ -75,31 +75,27 @@ Random Forest / XGBoost
 
 ## 🔄 Project Workflow
 
-Good 👍 Your Streamlit error is fixed. Now your next step is:
-
-STEP 19: Final Project Structure Check
-
-Your project should look like this:
-
 Predictive_Maintenance_AI
 
 │
 ├── data
-│   └── ai4i2020.csv
+│
+└── ai4i2020.csv
 │
 ├── models
 │   ├── predictive_maintenance_model.pkl
 │   └── scaler.pkl
 │
+
 ├── notebooks
 │   └── Predictive_Maintenance.ipynb
 │
+
 ├── app.py
 │
-└── README.md
-STEP 20: README.md Content
 
-Open README.md and paste:
+└── README.md
+
 
 # 🏭 AI-Based Predictive Maintenance System
 
