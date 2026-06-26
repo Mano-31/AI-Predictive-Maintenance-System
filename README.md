@@ -264,7 +264,7 @@ Predictive_Maintenance_AI
 
 ## ▶️ Run Project
 
-Install requirements: pip install -r
+Install requirements: pip install -r requirements.txt
 
 
 Run: streamlit run app.py
