@@ -79,22 +79,25 @@ Predictive_Maintenance_AI
 
 │
 ├── data
-│
-└── ai4i2020.csv
+     └── ai4i2020.csv
+
 │
 ├── models
 │   ├── predictive_maintenance_model.pkl
 │   └── scaler.pkl
-│
+
 
 ├── notebooks
 │   └── Predictive_Maintenance.ipynb
-│
+
 
 ├── app.py
-│
+
 
 └── README.md
+
+
+├── requirements.txt
 
 
 # 🏭 AI-Based Predictive Maintenance System
