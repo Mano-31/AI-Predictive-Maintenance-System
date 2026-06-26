@@ -291,3 +291,7 @@ Run: streamlit run app.py
 
 Manogaran P
 
+LinkedIn: https://www.linkedin.com/posts/manogaran-p-892944371_datascience-machinelearning-ai-ugcPost-7476233145478983680-leP3/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7476233146561159168&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_android&rcm=ACoAAFwnX-4BCrtEftyRgSVtg2UojUFOMxUZC7A
+
+⭐ If you found this helpful, please star the repository!
+
