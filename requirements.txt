@@ -1,0 +1,31 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+streamlit
+joblib
+
+Predictive_Maintenance_AI
+
+├── data
+│   └── ai4i2020.csv
+
+├── models
+│   ├── predictive_maintenance_model.pkl
+│   └── scaler.pkl
+
+├── notebooks
+│   └── Predictive_Maintenance.ipynb
+
+├── screenshots
+│   ├── dashboard.png
+│   ├── prediction_normal.png
+│   └── prediction_failure.png   ⭐
+
+├── app.py
+
+├── README.md
+
+└── requirements.txt
